@@ -45,6 +45,7 @@ This extension does not work with snapstore / flatpak version of VSCode, please 
 -   Detect when you are Debugging!
 -   Detect when you are using the [Insiders build](https://code.visualstudio.com/insiders/)!
 -   Detect when you are Idling!
+-   Logo artwork by [@sawaratsuki1004](https://twitter.com/sawaratsuki1004)
 
 ## 👀 Preview
 
@@ -120,6 +121,7 @@ We have a guide for adding a new language [here](ADDING_LANGUAGE.md)!
 -   [discordjs](https://github.com/discordjs/) - Creator of Discord RPC Client
 -   [iCrawl](https://github.com/iCrawl) - Creator of [discord-vscode](https://github.com/iCrawl/discord-vscode)
 -   [Satoqz](https://github.com/Satoqz) - Creator of [vscode-discord](https://github.com/Satoqz/vscode-discord/)
+-   [SAWATSUKI](https://github.com/SAWARATSUKI) - Creator of many of the logos used [ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos)
 
 _Much of the code in this repository is based on [iCrawl/discord-vscode](https://github.com/iCrawl/discord-vscode) & [Satoqz/vscode-discord](https://github.com/Satoqz/vscode-discord). This extension would not exist without them._
 
